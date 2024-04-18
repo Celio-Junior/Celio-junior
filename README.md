@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003898&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Celio+Junior;eu+tenho+atualmente+18+anos+de+idade;Sou+um+desenvolvedor+Full+Stack;Seja+muito+bem-vindo+ao+meu+git+hub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=Opa!+tudo+bem?;+Meu+nome+é+Celio+Junior;eu+tenho+atualmente+18+anos+de+idade;tenho+paixão+na+programação+web;Pretendo+ser+desenvolvedor+Full+Stack;A+minha+linguagem+de+programação+principal+é+o+JavaScript;Seja+muito+bem-vindo+ao+meu+git+hub!)](https://git.io/typing-svg)
 <br><br>
 <hr>
 
@@ -33,4 +31,11 @@
   <img src="https://img.shields.io/badge/-GitHub%20Desktop-blueviolet?style=for-the-badge&logo=github&Color=white">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003898&height=120&section=footer"/>
+<h3 align="left">😎&#x1F448; A little about myself:</h3>
+<div align="left">
+    <h4>
+      Eu sou Celio Junior Rodrigues Souza, sou brasileiro, tenho <strong>18 anos</strong>, e eu estou numa jornada as ser um <em>programador Full-Stack</em>.<br>
+      Eu sou uma pessoa muita curiosa na questão de tecnologias, sempre me encantei na área de programação, principalmente na área do<br>
+      <em>desenvolvimento web</em>, acho facisnante como funcionar todo esse sistema pro trás dos panos <br> tem hora que penso: <q>Cara isso aqui é magia</q>.Eu estou cursando <em style="font-weight:bold">Análise e Desenvolvimento de Sistemas</em>
+    </h4>
+</div>
