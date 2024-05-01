@@ -35,7 +35,7 @@
 <div align="left">
     <h4>
       Eu sou Celio Junior Rodrigues Souza, sou brasileiro, tenho <strong>18 anos</strong>, e eu estou numa jornada as ser um <em>programador Full-Stack</em>.<br>
-      Eu sou uma pessoa muita curiosa na questão de tecnologias, sempre me encantei na área de programação, principalmente na área do<br>
+      Eu sou uma pessoa muita curiosa na questão de tecnologias, sempre me encantei na área de programação, principalmente na área do
       <em>desenvolvimento web</em>, acho facisnante como funcionar todo esse sistema pro trás dos panos <br> tem hora que penso: <q>Cara isso aqui é magia</q>.Eu estou cursando <em style="font-weight:bold">Análise e Desenvolvimento de Sistemas</em>
     </h4>
 </div>
