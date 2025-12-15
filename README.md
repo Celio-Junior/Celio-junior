@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=Opa!+tudo+bem?;+Meu+nome+é+Celio+Junior;eu+tenho+atualmente+20+anos+de+idade;tenho+paixão+na+programação;Sou+desenvolvedor+Full+Stack;As+linguagem+que+eu+trabalho+é+o+JavaScript+e+TypeScript;Seja+muito+bem-vindo+ao+meu+git+hub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=Hey!+How's+it+going?;+My+name+is+Celio+Junior;I+am+currently+20+years+old;I+have+a+passion+for+programming;I+am+a+Full+Stack+Developer;The+languages+I+work+with+are+JavaScript+and+TypeScript;You+are+very+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <br><br>
 <hr>
 
