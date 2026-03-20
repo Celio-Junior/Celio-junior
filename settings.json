@@ -7,7 +7,7 @@
   "editor.renderLineHighlight": "gutter",
   "workbench.editor.labelFormat": "short",
   "editor.minimap.enabled": false,
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "top", // navbar lateral
   "window.titleBarStyle": "custom",
   "breadcrumbs.enabled": false,
   "editor.fontLigatures": true,
@@ -20,7 +20,7 @@
   "explorer.fileNesting.patterns": {
     "tsconfig.json": "tsconfig.*.json",
     "package.json": "package-lock.json, tsconfig*, webpack*, .gitignore, vite*, tsconfig.*.json, postcss*",
-    "eslint*": ".prettier*, .editorconfig",
+    "eslint*": ".prettier*, .editorconfig, tailwind*",
   },
   "code-runner.runInTerminal": true,
   "code-runner.saveAllFilesBeforeRun": true,
